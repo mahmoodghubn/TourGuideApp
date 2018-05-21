@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="places">Places</string>
+    <string name="images">Images</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="events">Events</string>
+
+    <string name="abo_shaker"><a href="https://www.pinterest.de/pin/347340189983265704/">abo shaker</a></string>
+    <string name="abo_arab"><a href="http://www.abouarabhaider.com/products.html">abo arab haider</a></string>
+    <string name="sword"><a href="https://en.wikipedia.org/wiki/Damascus_steel">damascus sword</a></string>
+    <string name="jasmen"><a href="https://www.youtube.com/watch?v=_B9f5qoHBtk">damascus jasmine</a></string>
+    <string name="tekkiye_mosque"><a href="https://en.wikipedia.org/wiki/Tekkiye_Mosque">tekkiye mosque</a></string>
+    <string name="citadel_of_damascus"><a href="https://en.wikipedia.org/wiki/Citadel_of_Damascus">Citadel_of_Damascus</a></string>
+    <string name="damascus_by_night"><a href="https://en.wikipedia.org/wiki/Damascus">Damascus</a></string>
+    <string name="al_hamidiyah_souq"><a href="https://en.wikipedia.org/wiki/Al-Hamidiyah_Souq">Al-Hamidiyah_Souq</a></string>
+    <string name="umayyad_mosque"><a href="https://en.wikipedia.org/wiki/Umayyad_Mosque">umayyad_mosque</a></string>
+    <string name="damascus"><a href="http://www.lovedamascus.com/en/syrian-handicrafts">handicrafts</a></string>
+    <string name="abo_arab_map">https://www.google.com.tr/maps/place/Arab+Abu+Haidar+Sweets/@32.6420916,33.8235178,7z/data=!4m8!1m2!2m1!1z2KfYqNmIINi52LHYqCDYrdmK2K_YsQ!3m4!1s0x1518e0dc7f826369:0xe26a407df552825!8m2!3d33.4936962!4d36.2984949</string>
+    <string name="abo_shaker_map">https://www.google.com.tr/maps/place/Abu+Shaker/@33.5179301,36.2925169,17z/data=!3m1!4b1!4m5!3m4!1s0x1518e7303c56f007:0x24e5c252433c695a!8m2!3d33.5179301!4d36.2947056</string>
+    <string name="al_hamediah_souq_map">https://www.google.com.tr/maps/place/Al-Hamidiyah+Souq/@33.5111637,36.301505,17z/data=!3m1!4b1!4m5!3m4!1s0x1518e72bdaee61a5:0x8a6f00d5cdaaeeaf!8m2!3d33.5111592!4d36.3036937</string>
+    <string name="tekkiye_mosque_map">https://www.google.com.tr/maps/place/Tekkiye+Mosque+Complex/@33.5111045,36.3042113,17z/data=!3m1!4b1!4m5!3m4!1s0x1518e729fd4c66a5:0x1333cd61fd1efb0!8m2!3d33.5111!4d36.3064</string>
+    <string name="citadel_of_damascus_map">https://www.google.com.tr/maps/place/Citadel+of+Damascus/@33.5116183,36.2986082,17z/data=!3m1!4b1!4m5!3m4!1s0x1518e72c09191929:0x820da89ec03983dc!8m2!3d33.5116138!4d36.3007969</string>
+    <string name="umayyaed_mosque_map">https://www.google.com.tr/maps/place/Ummayed+Mosque/@33.5112389,36.3031293,17z/data=!3m1!4b1!4m5!3m4!1s0x1518e72981cd88b5:0xce08958386e10a19!8m2!3d33.5112344!4d36.305318</string>
+    <string name="ramadan"><a href="https://www.youtube.com/watch?v=3G-t72JjRf0">youtube Ramadan</a></string>
+    <string name="eid_alfetr"><a href="https://www.youtube.com/watch?v=3G-t72JjRf0">youtube eid_alfetr</a></string>
+    <string name="eid_aladha"><a href="https://www.youtube.com/watch?v=VDbXKBovABY">youtube eid_aladha</a></string>
+
+</resources>
